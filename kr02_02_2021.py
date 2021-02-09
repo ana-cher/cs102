@@ -5,7 +5,7 @@ def task_1(two_dim_words):
         Заполнять список значениями не нужно.
         Финальное значение должно быть помещено в переменную sorted_words.
         """
-    sorted_words = tuple(two_dim_words) 
+    sorted_words = tuple(two_dim_words)
     return sorted_words
 
 
